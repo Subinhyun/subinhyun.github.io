@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>현수빈 Hyun SuBin</title>
+    <link>https://subinhyun.github.io/blog/authors/hugo-authors/</link>
+    <description>Recent content on 현수빈 Hyun SuBin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://subinhyun.github.io/blog/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subinhyun introduction</title>
+      <link>https://subinhyun.github.io/blog/post/image-gallery/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://subinhyun.github.io/blog/post/image-gallery/</guid>
+      <description>&lt;p&gt;안녕하세요. 제주대학교 컴퓨터교육과에 재학 중인 현수빈입니다.&lt;/p&gt;
+&lt;p&gt;이곳을 클릭하면 현수빈의 자기소개서를 볼 수 있습니다.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
